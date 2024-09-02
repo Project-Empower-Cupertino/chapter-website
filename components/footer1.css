@@ -103,7 +103,7 @@
   flex-shrink: 0;
   flex-direction: column;
 }
-.footer1-footer-links {
+.footer1-footer-links1 {
   gap: var(--dl-space-space-halfunit);
   display: flex;
   align-self: stretch;
@@ -121,7 +121,7 @@
   flex-shrink: 0;
   flex-direction: column;
 }
-.footer1-footer-links1 {
+.footer1-footer-links2 {
   gap: var(--dl-space-space-halfunit);
   display: flex;
   align-self: stretch;
@@ -146,7 +146,7 @@
   align-items: flex-start;
   flex-direction: column;
 }
-.footer1-link {
+.footer1-link14 {
   gap: 12px;
   display: flex;
   padding: 8px 0;
@@ -154,7 +154,7 @@
   align-items: center;
   flex-shrink: 0;
 }
-.footer1-link1 {
+.footer1-link15 {
   gap: 12px;
   display: flex;
   padding: 8px 0;
@@ -162,7 +162,7 @@
   align-items: center;
   flex-shrink: 0;
 }
-.footer1-link2 {
+.footer1-link16 {
   gap: 12px;
   display: flex;
   padding: 8px 0;
@@ -170,7 +170,7 @@
   align-items: center;
   flex-shrink: 0;
 }
-.footer1-link3 {
+.footer1-link17 {
   gap: 12px;
   display: flex;
   padding: 8px 0;
@@ -178,7 +178,7 @@
   align-items: center;
   flex-shrink: 0;
 }
-.footer1-link4 {
+.footer1-link18 {
   gap: 12px;
   display: flex;
   padding: 8px 0;
@@ -203,7 +203,7 @@
   flex-shrink: 0;
   justify-content: space-between;
 }
-.footer1-footer-links2 {
+.footer1-footer-links3 {
   gap: 24px;
   display: flex;
   align-items: flex-start;
@@ -260,7 +260,7 @@
   .footer1-column1-title {
     text-align: center;
   }
-  .footer1-footer-links {
+  .footer1-footer-links1 {
     align-self: center;
   }
   .footer1-column2 {
@@ -269,7 +269,7 @@
   .footer1-column2-title {
     text-align: center;
   }
-  .footer1-footer-links1 {
+  .footer1-footer-links2 {
     align-self: center;
   }
   .footer1-column3 {
@@ -308,7 +308,7 @@
     align-items: center;
     justify-content: center;
   }
-  .footer1-footer-links {
+  .footer1-footer-links1 {
     align-items: center;
     justify-content: center;
   }
@@ -318,7 +318,7 @@
     align-items: center;
     justify-content: center;
   }
-  .footer1-footer-links1 {
+  .footer1-footer-links2 {
     align-items: center;
     justify-content: center;
   }
@@ -339,7 +339,7 @@
     align-items: center;
     justify-content: center;
   }
-  .footer1-footer-links2 {
+  .footer1-footer-links3 {
     align-items: center;
     flex-direction: column;
     justify-content: center;
